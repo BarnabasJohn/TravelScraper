@@ -1,0 +1,21 @@
+tours = {
+    "SaltLick":"mashujaa-at-salt-lick-safari-lodge",
+    "chui-resort":"mashujaa-at-mara-chui-resort",
+    "enkrok":"mashujaa-at-enkrok",
+    "AshnilMara":"mashujaa-at-ashnil-mara-camp",
+    "Emaiyan":"mashujaa-at-emayian-luxury-camp",
+    "MaraSopa":"mashujaa-at-mara-sopa-lodge",
+    "LNaivasha":"lake-naivasha-resort",
+    "GRiftValley":"great-rift-valley-lodge-2024",
+    "SarovaMara":"mashujaa-at-sarova-mara-game-camp",
+    "Burch":"burch-resort-naivasha-2024",
+    "SoroiMara":"soroi-mara-bush-camp-2024",
+    "SoroiPrivate":"soroi-private-wing-2024",
+    "SoroiLions":"soroi-lions-bluff-lodgeflying",
+    "SarovaShaba":"mashujaa-at-sarova-shaba-game-lodge-2024",
+    "ReefHotel":"the-reef-hotel-2024",
+    "VoyagerBeach":"voyager-beach-resort-2024",
+    "PrideInn":"pride-inn-flamingo-beach-resort-2024",
+    "NeptuneBeach":"neptune-beach-resort-2024",
+    "BaobabBeach":"baobab-beach-resort-spa-2024"
+}
